@@ -1,4 +1,4 @@
-<h1 Landing page construida durante o aprendizado de Bootstrap 5.3.></h1>h1>
+Landing page construida durante o aprendizado de Bootstrap 5.3.
 
 O que aprendi e apliquie neste projeto?
 
